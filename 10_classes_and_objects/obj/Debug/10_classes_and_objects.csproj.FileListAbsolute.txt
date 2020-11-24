@@ -1,0 +1,1 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\10_classes_and_objects\obj\Debug\10_classes_and_objects.csproj.CoreCompileInputs.cache
